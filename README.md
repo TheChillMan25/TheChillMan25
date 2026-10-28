@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Peter.
-- 📫 How to reach me: mail: licsmanpeter@gmail.com, discord: thechillman25
+- 📫 How to reach me: mail: licsmanpeter@protonmail.com, discord: thechillman25
 
 <!--
 **TheChillMan25/TheChillMan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
